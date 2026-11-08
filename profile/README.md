@@ -4,6 +4,8 @@ Formula Student UL is the University of Limerick's student motorsport team. Each
 
 🌐 **Website:** [fsul.ie](https://fsul.ie)
 
+<img width="1600" height="1204" alt="1784552927798" src="https://github.com/user-attachments/assets/247954e8-0d4a-426b-b1d4-0b4ee1484e2f" />
+
 ## What we do
 
 - Design and manufacture a race car from scratch
